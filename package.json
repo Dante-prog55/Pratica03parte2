@@ -1,0 +1,24 @@
+{
+  "name": "aplicacaonodeaula",
+  "version": "1.0.0",
+  "description": "Aplicativo Da Aula",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dante-prog55/Pratica03parte2.git"
+  },
+  "keywords": [
+    "Aplicacao",
+    "aula",
+    "teste"
+  ],
+  "author": "Dante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dante-prog55/Pratica03parte2/issues"
+  },
+  "homepage": "https://github.com/Dante-prog55/Pratica03parte2#readme"
+}
